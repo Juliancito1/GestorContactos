@@ -1,0 +1,39 @@
+{
+  "contactos": [
+    {
+      "id": 1,
+      "nombre": "Julian Martin",
+      "email": "julianmartin@gmail.com",
+      "telefono": 381123456,
+      "favs": false
+    },
+    {
+      "nombre": "Pedro",
+      "email": "Pedro@gmail.com",
+      "telefono": "381923837",
+      "favs": false,
+      "id": 2
+    },
+    {
+      "nombre": "Nicolas",
+      "email": "nicolas@gmail.com",
+      "telefono": "3819273842",
+      "favs": true,
+      "id": 3
+    },
+    {
+      "nombre": "Lucas",
+      "email": "lucas@gmail.com",
+      "favs":true,
+      "telefono": "381728374",
+      "id": 4
+    },
+    {
+      "nombre": "Juan",
+      "email": "Juan@gmail.com",
+      "telefono": "381927362",
+      "favs": false,
+      "id": 5
+    }
+  ]
+}
